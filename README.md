@@ -1,3 +1,7 @@
+### 🚀 Full Stack Developer in Progress  
+Building modern web applications using React & Node.js
+
+
 # Hi, I'm Divyaraj 👋
 
 Aspiring Full Stack Developer focused on building scalable web applications and continuously improving through real-world projects.
