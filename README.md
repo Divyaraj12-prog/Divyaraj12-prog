@@ -1,4 +1,4 @@
-### 🚀 Full Stack Developer in Progress  
+### 🚀 Full Stack Developer
 Building modern web applications using React & Node.js
 
 
