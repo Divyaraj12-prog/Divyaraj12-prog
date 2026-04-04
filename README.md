@@ -82,7 +82,8 @@ Features:
 
 ## 🤝 Let's Connect
 
-- LinkedIn: (Add your LinkedIn link here)
+- LinkedIn: (www.linkedin.com/in/
+divyaraj-purohit-b716a92b8)
 
 ---
 
