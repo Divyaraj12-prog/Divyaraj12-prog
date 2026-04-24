@@ -1,90 +1,77 @@
-### 🚀 Full Stack Developer
-Building modern web applications using React & Node.js
+# Hi, I'm Divyaraj 👋  
 
-
-# Hi, I'm Divyaraj 👋
-
-Full Stack Developer focused on building scalable web applications and continuously improving through real-world projects.
+Backend-Leaning Full Stack Developer building real-world web applications with React, Node.js, and modern technologies.
 
 ---
 
 ## 🚀 About Me
-
-- 💻 Currently building projects using React & JavaScript after completing Backend
-- ⚛️ Exploring advanced state management (Context API, Redux)
-- 🌐 Strong foundation in Backend Development
-- 📈 Learning in public and documenting my progress
-- 🎯 Goal: Become a skilled Full Stack Developer
+- BCA Student at Amity University Online  
+- Skilled in building full-stack applications and real-time systems  
+- Focused on writing clean, scalable code and learning by building  
+- Currently looking for internship opportunities  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- React Router
-- Context API
+**Frontend:**  
+HTML5, CSS3, Javascript, React.js  
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
+**Backend:**  
+Node.js, Express.js  
 
-### Tools
-- Git & GitHub
-- VS Code
-- Postman
+**Databases:**  
+MongoDB, Redis, Pinecone (Vector DB)
 
----
+**Tools:**  
+Git, GitHub, VS Code, Postman  
 
-## 📌 Recent Projects (Others in Repository Section)
+**DevOps & Deployment:**
+Docker, Amazon ECR,ECS,EC2
 
-### 🍲 RecipeMaster (React)
-A recipe management app where users can create, view, and organize recipes with images and categories.
-
-Tech Used:
-React, Context API, Dynamic Routing
-
-👉 Repository:
-
-https://github.com/Divyaraj12-prog/Recipe-Project
+**Concepts:**  
+REST APIs, Socket.IO, State Management (Redux), RAG (basic)  
 
 ---
 
-### 📊 Professional Dashboard (DOM Project)
-A productivity dashboard built using HTML, CSS, and JavaScript.
+## 💻 Projects
 
-👉 Repository:
-
-https://github.com/Divyaraj12-prog/Productivity-DashBoard.git
-
-Features:
-- Todo List
-- Pomodoro Timer
-- Daily Planner
-- Motivational Quotes
-- Weather API integration
-- Responsive Design
+### 🔹 CodeCollab — Real-Time Code Editor  
+- Built a real-time collaborative code editor using Socket.IO  
+- Implemented room-based system and live chat  
+- Integrated Monaco Editor for in-browser coding  
+👉 https://github.com/Divyaraj12-prog/CodeCollab  
 
 ---
 
-## 📈 Currently Learning
-
-- React lifecycle methods
-- Advanced state management (Redux)
-- Application architecture patterns
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: (www.linkedin.com/in/
-divyaraj-purohit-b716a92b8)
+### 🔹 JobScribe — AI Resume Analyzer  
+- Developed an AI-powered resume analyzer and job tracker  
+- Built REST APIs for user and application management  
+- Implemented authentication and backend logic  
+👉 https://github.com/Divyaraj12-prog/JobScribe  
 
 ---
 
-⭐ Always building. Always improving.
+### 🔹 NebulaMart — Microservices Backend  
+- Designed microservices-based backend architecture  
+- Used Docker and deployed services on AWS  
+- Implemented service communication using REST and messaging queues  
+👉 https://github.com/Divyaraj12-prog/NebulaMart  
+
+---
+
+### 🔹 E-Commerce (Redux Project)  
+- Built React-based e-commerce frontend  
+- Implemented global state management using Redux  
+- Managed cart and product state efficiently  
+👉 https://github.com/Divyaraj12-prog/E-Commerce  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/divyaraj-purohit-b716a92b8  
+- Email: purohitdivyaraj000@gmail.com  
+
+---
+
+⭐ Always open to learning, collaboration, and new opportunities.
